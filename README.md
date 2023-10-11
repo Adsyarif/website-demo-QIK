@@ -1,5 +1,6 @@
 <!-- RevoU Logos -->
-![RevoU-logos](https://pkk.uma.ac.id/wp-content/uploads/2023/06/revo.png "RevoU Logos"){ width="20%" style="display: block; margin: 0 auto; max-height: 300px;"}
+![RevoU-logos](https://pkk.uma.ac.id/wp-content/uploads/2023/06/revo.png "RevoU Logos")
+<!-- { width="20%" style="display: block; margin: 0 auto; max-height: 300px;"} -->
 
 <!-- Header md file -->
 
@@ -27,9 +28,11 @@ Table of Content
 <!-- [^1]: [RevoU registration](https://revou.co/software-engineering?&eid=1697019632813&targeting=1&cat=D&x6=K) -->
 
 <!-- Profile image -->
-![Photos](./assets/profile-img.jpg "Muhammad Adrisa Nur Syarif"){ width="50%" style="display: block; margin: 0 auto; max-height: 300px; object-fit: cover; object-position: center; border-radius: 10px;"}
+![Photos](./assets/profile-img.jpg "Muhammad Adrisa Nur Syarif")
+<!-- { width="50%" style="display: block; margin: 0 auto; max-height: 300px; object-fit: cover; object-position: center; border-radius: 10px;"} -->
 
-#### Hello. {style="text-align: center;"}
+#### Hello. 
+<!-- {style="text-align: center;"} -->
 
 <!-- About me -->
 I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modeller. I'm the co-founder of *Sysdyncate*. I :heart: coffee and cat.
