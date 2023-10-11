@@ -5,16 +5,17 @@
 <!-- Header md file -->
 
 ## Muhammad Adrisa Nur Syarif
+![Up to date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)
 
 <!-- Purpose -->
 > This is an assignment for "My Profile"
 
 <!-- Table of Content -->
 Table of Content
--  [About Me](#I\'m-Adrisa "About Me")
+-  [About Me](#I'm-Adrisa "About Me")
 -  [Skills](#My-Skills "My Skills")
 -  [Experience](#My-Experience "My Experience")
--  [Contact](#My-Contact "My Contact")
+-  [Contact](#Get-In-Touch "My Contact")
 
 ---
 
@@ -35,18 +36,22 @@ Table of Content
 <!-- {style="text-align: center;"} -->
 
 <!-- About me -->
-I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modeller. I'm the co-founder of *Sysdyncate*. I :heart: coffee and cat.
+I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modeller. I'm the co-founder of *Sysdyncate*. I :heart: coffee and cat. I started learning to code when I was 24 years old because I wanted to make my own website.
+
 
 <!-- My Skills -->
 
-#### My Skills
+### Skills
 ![Cat-Typing](./assets/cat-typing.gif "Cat Typing")
+- As an analyst, i have skill to using several tools:
+  - Python
+  - Ms Excel
+  - Power BI
+  - Some SQL Querry
 
-I love this stuff 
+- But my best skill is actually in googling something. As an analyst I need to find many dataset. Of course the data can be obtain by google. :desktop_computer:
 
-
-
-#### My Experience
+### Experience
 
 |Years|Occupation|Position| 
 |-----------|--------|-------|
@@ -57,3 +62,8 @@ I love this stuff
 |2022 - 2023 | PT Hegar Daya | Data Analyst |
 |2020 - Now | Sysdyncate | Co Founder |
 |2018 - 2020 | System Dynamics Bandung Bootcamp | System Dynamics Modeller |
+
+### Get In Touch
+If you love coffee as much as I do. 
+Love coffee as much as I do? Let's talk about how awesome they are! We can code while we drink hot coffee! :coffee:
+
