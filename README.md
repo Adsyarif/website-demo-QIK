@@ -4,23 +4,24 @@
 
 <!-- Header md file -->
 
-## Muhammad Adrisa Nur Syarif
+# Muhammad Adrisa Nur Syarif
 ![Up to date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)
 
 <!-- Purpose -->
 > This is an assignment for "My Profile"
 
-<!-- Table of Content -->
+<!-- Navigation -->
 Table of Content
--  [About Me](#I'm-Adrisa "About Me")
--  [Skills](#My-Skills "My Skills")
--  [Experience](#My-Experience "My Experience")
+-  [About Me](#Profile "About Me")
+-  [Skills](#Skills "My Skills")
+-  [Experience](#Experience "My Experience")
 -  [Contact](#Get-In-Touch "My Contact")
 
 ---
 
 <!-- Content 1: About Me -->
 
+## Profile
 ### I'm Adrisa 
 
 ###### a Software Engineering student's at RevoU
@@ -36,7 +37,7 @@ Table of Content
 <!-- {style="text-align: center;"} -->
 
 <!-- About me -->
-I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modeller. I'm the co-founder of *Sysdyncate*. I :heart: coffee and cat. I started learning to code when I was 24 years old because I wanted to make my own website.
+I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modeller. I'm the co-founder of *Sysdyncate*. I :heart: coffee and cat. I started learning to code when I was 24 years old because I wanted to make my own website [Hisa Studio](https://www.hisastudio.com/ "Hisa Studio Site"). My goals is to be professional software engineer.
 
 
 <!-- My Skills -->
@@ -67,3 +68,4 @@ I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modell
 If you love coffee as much as I do. 
 Love coffee as much as I do? Let's talk about how awesome they are! We can code while we drink hot coffee! :coffee:
 
+[![linked-in](./assets/linkedin-logo.jpg)](https://www.linkedin.com/in/adrisa-syarif/)
