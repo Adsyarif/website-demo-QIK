@@ -11,7 +11,7 @@
 > This is an assignment for "My Profile"
 
 <!-- Navigation -->
-Table of Content
+Table of Content :memo:
 -  [About Me](#Profile "About Me")
 -  [Skills](#Skills "My Skills")
 -  [Experience](#Experience "My Experience")
@@ -21,13 +21,13 @@ Table of Content
 
 <!-- Content 1: About Me -->
 
-## Profile
-### I'm Adrisa 
+## Profile:triangular_flag_on_post:
+### I'm Adrisa 	:bangbang:
 
-###### a Software Engineering student's at RevoU
+###### a Software Engineering student's at RevoU[^1].
 
 <!-- Footnote RevoU site -->
-<!-- [^1]: [RevoU registration](https://revou.co/software-engineering?&eid=1697019632813&targeting=1&cat=D&x6=K) -->
+[^1]: [RevoU registration](https://revou.co/software-engineering?&eid=1697019632813&targeting=1&cat=D&x6=K)
 
 <!-- Profile image -->
 ![Photos](./assets/profile-img.jpg "Muhammad Adrisa Nur Syarif")
@@ -42,7 +42,7 @@ I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modell
 
 <!-- My Skills -->
 
-### Skills
+## Skills :briefcase:
 ![Cat-Typing](./assets/cat-typing.gif "Cat Typing")
 - As an analyst, i have skill to using several tools:
   - Python
@@ -52,7 +52,11 @@ I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modell
 
 - But my best skill is actually in googling something. As an analyst I need to find many dataset. Of course the data can be obtain by google. :desktop_computer:
 
-### Experience
+## Experience :rocket:
+
+I reside in Bandung, which has allowed me to acquire the necessary skills for living in this city. I previously held the position of Major in Physics Instrumentation. However, I am currently pursuing my bachelor's degree at Pasim National University to achieve my academic goals.
+
+Throughout this time, I've embarked on a non-linear career journey, starting from design for marketing and books, eventually transitioning into an analyst role. Here is a brief overview of my career so far.
 
 |Years|Occupation|Position| 
 |-----------|--------|-------|
@@ -64,7 +68,7 @@ I am a **Strategy and Policy Analyst**. Spesialization in System Dynamics Modell
 |2020 - Now | Sysdyncate | Co Founder |
 |2018 - 2020 | System Dynamics Bandung Bootcamp | System Dynamics Modeller |
 
-### Get In Touch
+## Get In Touch :mailbox_with_mail:
 If you love coffee as much as I do. 
 Love coffee as much as I do? Let's talk about how awesome they are! We can code while we drink hot coffee! :coffee:
 
