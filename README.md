@@ -12,16 +12,16 @@
 
 <!-- Navigation -->
 Table of Content :memo:
--  [About Me](#Profile "About Me")
--  [Skills](#Skills "My Skills")
--  [Experience](#Experience "My Experience")
--  [Contact](#Get-In-Touch "My Contact")
+-  [About Me](#Profile-:triangular_flag_on_post: "About Me")
+-  [Skills](#Skills-:briefcase: "My Skills")
+-  [Experience](#Experience-:rocket: "My Experience")
+-  [Contact](#Get-In-Touch-:mailbox_with_mail: "My Contact")
 
 ---
 
 <!-- Content 1: About Me -->
 
-## Profile:triangular_flag_on_post:
+## Profile :triangular_flag_on_post:
 ### I'm Adrisa 	:bangbang:
 
 ###### a Software Engineering student's at RevoU[^1].
