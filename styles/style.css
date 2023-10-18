@@ -1,4 +1,3 @@
-
 body {
     margin: 0;
     font-family: 'Quicksand', sans-serif;
@@ -15,7 +14,8 @@ div a {
 
 .container {
     /* background-color: red; */
-    padding: 2rem;
+    /* width: 80%; */
+    padding: 20px 200px;
 }
 
 .flex-col-container {
@@ -66,7 +66,7 @@ nav li {
 
 .jumbotron {
     font-size: 20px;
-    padding: 20px 100px 10px 100px;
+    padding: 20px 200px 10px 200px;
     
     text-align: center;
     color: white;
@@ -327,7 +327,9 @@ main aside .social-media ul {
 }
 
 main aside .social-media ul:hover {
-    background-color: #2d3e50;
+    background-color: #292a2b;
+    transition-duration: 1s;
+    transition-delay: 0.02s;
 }
 
 main aside .social-media li {
@@ -342,7 +344,7 @@ main aside .social-media li a {
 }
 
 main aside .social-media li a:hover {
-    color: rgba(0, 0, 0, 0.384);
+    color: rgba(214, 214, 214, 0.438);
   }
 
 
@@ -364,3 +366,9 @@ footer {
 
 /* FOOTER SECTION END */
 /* ========================= */
+
+@media screen and (max-width: 1200px) {
+    .container {
+        padding: 20px 100px;
+    }
+}
