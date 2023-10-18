@@ -1,0 +1,86 @@
+a {
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+}
+
+body {
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+nav {
+    text-align: center;
+}
+
+nav a:hover {
+    color: white;
+    font-weight: bold;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+.btn-interest {
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 50px;
+    text-align: center;
+    margin: 20px 0px;
+    font-weight: bold;
+    /* background-color: #8cff08; */
+}
+
+
+
+
+.home-grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr 0.5fr;
+
+}
+
+.home-grid-item-1 {
+    grid-row: span 2;
+    /* background-color: red; */
+}
+
+.home-grid-item-2 {
+    grid-column-start: 2;    
+    grid-column-end: -1;
+}
+
+.home-grid-item-3 {
+    grid-column-start: 2;
+    grid-column-end: -1;
+    grid-row-start: 2;
+    order: 1;
+}
+
+.jumbotron {
+    font-size: 20px;
+    padding: 60px;
+    
+    text-align: center;
+    color: white;
+}
+
+.nav-flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 12px
+    
+}
+
+.partnership {
+    background-color: blueviolet;
+}
+
+#header {
+    background-image: url("https://images.pexels.com/photos/159298/gears-cogs-machine-machinery-159298.jpeg");
+    height: 100vh;
+    object-fit: cover;
+    background-position: center;
+
+}
