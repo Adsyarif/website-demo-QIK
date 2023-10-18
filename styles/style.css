@@ -236,6 +236,7 @@ nav li {
 
 .testimoni-grid-container > figure {
     grid-area: 2/1/-1/1;
+    
 }
 
 .testimoni-grid-container > p {
